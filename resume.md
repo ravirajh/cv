@@ -1,50 +1,70 @@
 ---
 layout: default
-title: Alex Morgan - Resume
+title: Raviraj Halarnekar - Network Engineer
 permalink: /
 ---
 
-# Alex Morgan
-**Senior Network Engineer (7+ Years Exp)**
+# Raviraj Halarnekar
+<div class="header-title">Network Engineer</div>
 <div class="contact-bar">
-New York, NY | <a href="mailto:alex.morgan@email.com">alex.morgan@email.com</a> | +1 (555) 123-4567 | <a href="https://linkedin.com">linkedin.com/in/alexmorgan</a>
+Bengaluru, Karnataka | <a href="mailto:ravirajrh@outlook.com">ravirajrh@outlook.com</a> | +91-XXXXXXXXXXX
 </div>
 
-## Professional Summary
-Senior Network Engineer with extensive experience designing, deploying, and optimizing enterprise-grade network infrastructures. Expert in Hybrid Cloud (AWS/Azure), Network Automation (Python/Ansible), and Security. Proven ability to reduce operational costs through automation and maintain 99.99% network uptime in high-demand environments.
+## Profile Summary
+Network Engineer with hands-on experience in technical support, network operations, and enterprise-wide infrastructure management. Skilled in configuring, maintaining, and upgrading routers, switches, firewalls, and wireless controllers, with a strong understanding of routing, switching, and security protocols.
 
 ## Technical Skills
-- **Network Protocols:** BGP, OSPF, EIGRP, MPLS, SD-WAN, IPsec, VPN, STP, VLAN, QoS
-- **Hardware:** Cisco (Nexus 9k, Catalyst), Juniper (SRX, MX), Palo Alto, F5 BIG-IP
-- **Cloud & Automation:** AWS (VPC, Direct Connect), Azure, Python, Ansible, Terraform, Docker
-- **Tools & Security:** Wireshark, Splunk, SolarWinds, Cisco ISE, 802.1x, Firewalls
+- **Routers:** Cisco ISR 1100 4G, Cisco ISR 4431, Cisco Viptela VEdge 100/2000 (SD-WAN), Ubiquiti Edge 4
+- **Switches:** Cisco Catalyst 9500-16X, Catalyst 9300-24T, Catalyst 3650, Catalyst 2960, Cisco SG300, 4500 Series, Nexus Series
+- **Security Devices:** Cisco ISE (VM-ISE-2.7), FortiGate 600E/100F, Palo Alto NGFW, Cisco FMC, FortiSandbox 1000F
+- **Wireless:** Cisco WLC 5520, Ubiquiti UniFi APs
+- **Protocols:** BGP, OSPF, EIGRP, VLAN, STP/RSTP, EtherChannel, TCP/IP, NAT/PAT, IPsec VPN, SSL VPN
+- **Tools:** Wireshark, Putty, GNS3, Cisco Packet Tracer, WhatsUp Gold, Force Scout NAC, TATA SIEM
+- **OS & Programming:** Linux (Debian), Windows Server, Basic Python & SQL
 
-## Experience
+## Professional Experience
 
-### Senior Network Engineer <span class="date">Jan 2021 – Present</span>
-**Global Tech Solutions** | *New York, NY*
-- Architected a hybrid cloud network connecting 3 global data centers to AWS using Direct Connect and Transit Gateways, reducing latency by 20%.
-- Led the migration of core switching infrastructure to Cisco Nexus 9000s with VXLAN/EVPN, achieving zero downtime during cutover.
-- Developed Ansible playbooks to automate switch provisioning and security patching, reducing manual configuration time by 40%.
-- Designed and implemented a Zero Trust security model using Palo Alto firewalls and Cisco ISE.
+### Network Engineer <span class="date">Dec 2022 – Present</span>
+**Oracle Cerner** | *Bengaluru, Karnataka*
+- Manage and support data center networks across 15 U.S. locations as part of Cerner’s NOC team.
+- Perform upgrades on Cisco L3 switches, firewalls, and wireless LAN controllers.
+- Upgrade Palo Alto firewalls to maintain compliance and network performance.
+- Provide 24x7 on-call support for critical data center operations and coordinate incident resolution.
 
-### Network Engineer <span class="date">Jun 2018 – Dec 2020</span>
-**FinServe Corp** | *Chicago, IL*
-- Managed LAN/WAN operations for a campus of 2,500+ users, ensuring 99.99% availability.
-- Redesigned OSPF/BGP routing architecture to improve redundancy and load balancing across ISP links.
-- Deployed Cisco ISE for wired and wireless 802.1x authentication, enhancing network access control.
-- Resolved complex Tier-3 routing and switching issues using Wireshark and Splunk analysis.
+### Network Engineer – L2 <span class="date">Dec 2021 – Dec 2022</span>
+**Allied Digital Services Ltd (Vedanta IOB Data Center)** | *Panaji, Goa*
+- Monitored and managed WAN connectivity for 10+ Vedanta Iron Ore Business (IOB) sites.
+- Administered **Cisco SD-WAN (Viptela)** via vManage for edge device configuration.
+- Managed **Cisco ISE** for TACACS+ authentication and Wi-Fi (Radius) authentication.
+- Configured and supported **Cisco WLC 5520** with 100+ APs across 10 sites.
+- Managed **FortiGate Firewalls** (600E, 100F) for site-to-site VPN, SSL VPN, and gateway security.
+- Operated FortiSandbox 1000F for malware detection and Fortinet EMS for endpoint security.
+- Monitored logs through TATA SIEM, coordinated with SOC, and addressed VAPT audit observations.
+- Implemented change requests, ensured 95%+ SLA compliance, and maintained monthly backups.
 
-### Junior Network Administrator <span class="date">May 2016 – May 2018</span>
-**Connect Logistics** | *Chicago, IL*
-- Configured and maintained Cisco Catalyst switches, routers, and wireless controllers.
-- Performed rack-and-stack operations and managed cabling standards in the data center.
-- Monitored network performance via SolarWinds; proactively identified and resolved bandwidth bottlenecks.
+### Network System Engineer <span class="date">Jan 2017 – Nov 2021</span>
+**Fahrenheit Hotels and Resorts** | *Calangute, Goa*
+- Led IT operations, project planning, and resource allocation for hospitality operations.
+- Oversaw deployment, monitoring, and maintenance of servers, networks, ERP, and telecom.
+- Upgraded wireless infrastructure with **Ubiquiti UniFi APs** for improved coverage.
+- Implemented FX GEM Contactless Hospitality Solution during COVID-19 guidelines.
+- Negotiated vendor contracts and successfully recovered company domain via ICANN compliance.
+
+### Apprentice Engineer <span class="date">Jan 2015 – Apr 2016</span>
+**Smartlink Network Systems Ltd** | *Verna, Goa*
+- Performed daily IBM Blade Centre (AIX 6.3) backups and applied server patches.
+- Managed Oracle ERP R12 user roles, registered concurrent programs, and monitored services.
+- Provided L1 support for end-user IT incidents.
+
+## Certifications & Awards
+- **CCNP ENCOR (350-401)** – Cisco Certified Network Professional
+- **CCNA** – Cisco Certified Network Associate
+- **Best Performer** – CSD (2022) Award
 
 ## Education
 
-### B.S. Information Technology <span class="date">2016</span>
-**University of Illinois**
+### Bachelor of Engineering (Computer Engineering)
+**Padre Conceição College of Engineering** | *Goa University*
 
-## Certifications
-**CCNP Enterprise** | **AWS Certified Advanced Networking** | **PCNSE (Palo Alto)**
+### Diploma in Computer Engineering
+**Agnel Polytechnic** | *Board of Technical Education, Goa*
